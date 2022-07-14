@@ -9,7 +9,6 @@ utilities.owners = [
 	"588847772820701214"
 ];
 
-require("./add-ons");
 require("./handler/antiCrash")();
 require("discord-logs")(utilities);
 require("./handler")(utilities);
