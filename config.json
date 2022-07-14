@@ -1,0 +1,16 @@
+{
+	"check": "<:check:904345681953718344>",
+	"cross": "<:cross:904345983574499398>",
+	"enabled": "<:on:924663775842418709>",
+	"disabled": "<:off:924663807672979457>",
+	"online": "<:online:904349173430755351>",
+	"offline": "<:offline:904349456424640562>",
+	"idle": "<:idle:904349281178234901>",
+	"dnd": "<:dnd:904349249590931506>",
+	"utilities": "865639463623458847",
+	"color": "#2672C1",
+	"fail": "#ff2052",
+	"avatar": "https://images-ext-1.discordapp.net/external/U7j_jTijl7UC9IFmGiRm9GNDl-Gr78-LUpwU8Chsh9Q/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/865639463623458847/f044d179ae9fafaba9baf4e561c85424.png?width=468&height=468",
+	"developer": "<:BotDeveloper:911754194346717204>",
+	"loading": "<a:loading:944564518107885569>"
+}
